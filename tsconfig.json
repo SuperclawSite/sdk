@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "SuperClaw",
+    "module": "Solana",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
